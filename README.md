@@ -3,7 +3,7 @@
 
 <a href="https://gitlab.com/team-zotify/zotify"><b>HERE<b><a>
 
-#### This repository was imported when there were <ins>72 Commit's</ins> on official repository so if there is update in commit number on that repository consider updating this repository.
+#### This repository was imported when there were <ins>89 Commits</ins> on official repository so if there is update in commit number on that repository consider updating this repository.
 ---
 ### A highly customizable music and podcast downloader.
 
